@@ -1,0 +1,10 @@
+16-Feb-18 6:08:00 PM	This log contains information about the import schema operation into project 'DatabaseSql' on computer 'VINEETPC' by user 'vimimrot'.
+16-Feb-18 6:08:00 PM	Deserializing model
+16-Feb-18 6:08:00 PM	Resolving model
+16-Feb-18 6:08:01 PM	Visiting imported model for types
+16-Feb-18 6:08:01 PM	Scanning project for duplicate elements
+16-Feb-18 6:08:01 PM	Finished duplicate element processing
+16-Feb-18 6:08:01 PM	Processing extra files
+16-Feb-18 6:08:01 PM	Finished importing Data-tier Application file.
+16-Feb-18 6:08:01 PM	A summary of the import was saved to the following location: C:\Users\vimimrot\documents\visual studio 2017\Projects\AspNetWithSQL\DatabaseSql\Import Schema Logs\DatabaseSql_20180216123800.log
+16-Feb-18 6:08:01 PM	Click Finish to continue...
